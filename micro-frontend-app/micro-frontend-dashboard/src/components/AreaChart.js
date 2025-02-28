@@ -57,8 +57,8 @@ const AreaChartContainer = ({ data }) => {
           { name: "Cash Outflow", data: cashOutflowData },
         ]}
         type="area"
-        height="100%"
-        width="90%"
+        height="80%"
+        width="80%"
       />
     </div>
   );
